@@ -26,7 +26,5 @@ Essentials
 - 注释源码参考：https://github.com/yeecode/MyBatisCN
 - 示例：https://github.com/yeecode/MyBatisDemo
 - 源码包结构与执行流程  
-https://kdocs.cn/l/cjfKWt7WLwep
-[金山文档] MyBatis源码包结构.pof
-https://kdocs.cn/l/cfjUMD9E7imd
-[金山文档] MyBatis执行流程.pom
+- https://kdocs.cn/l/cjfKWt7WLwep [金山文档] MyBatis源码包结构.pof
+- https://kdocs.cn/l/cfjUMD9E7imd [金山文档] MyBatis执行流程.pom
